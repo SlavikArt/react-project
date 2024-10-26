@@ -1,0 +1,27 @@
+.recipeDetail {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.recipeDetail h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.recipeDetail p {
+  margin-bottom: 1rem;
+}
+
+.recipeDetail img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+}
+
+.recipeDetail button {
+  margin: 2px;
+}
